@@ -1,0 +1,20 @@
+#from-date{
+	height: 30px;
+}
+#datetimepicker{
+	width: 150px;
+}
+.hp100{
+	height: 100%;
+}
+.hp50{
+	height: 50%;
+}
+.grid-view{
+	border: 1px solid #222;
+}
+.tabletype{
+	font-size: 14px;
+	color: #083368;
+	font-weight: bold;
+}

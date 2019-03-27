@@ -1,0 +1,5 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/MXVC/mxvc_l3vpn.pl.mxvc-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/MXVC/mxvc_gres.pl.mxvc-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/MXVC/tc1_mxvc_issu_RLI18736.pl.mxvc-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/AE/targetted_distribution/targetted_distribution_mx12.pl.mxvc-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/MXVC/tc2_mxvc_issu_RLI18736.pl.mxvc-domain.params

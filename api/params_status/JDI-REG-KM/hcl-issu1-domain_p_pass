@@ -1,0 +1,7 @@
+/volume/regressions/JUNOS/HEAD/FIPS/fips_RE-S-2000-4096-S_functional_test.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/PFEPeerInfra/Peer_Infra_Code_coverage.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/ISIS/issu_isis_TC2.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/issu_ldp_test1.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Ifstate/Gres_hard/Gres_Kernel_hard.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Ifstate/Gres_hard/Gres_Kernel_hard3.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Ifstate/Gres_hard/Gres_Kernel_hard2.pl.params

@@ -1,0 +1,8 @@
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/BGP/issu_bgp_testcase5.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/ISIS/issu_isis_TC1.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling_csv_data/64k_Numbered_ifl.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling_csv_data/128k_Unnumbered_ifl.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/ISIS/issu_isis_TC3.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/IPv6/161_MX_TPI_38695_IPv6_Logo_Cert_RFC4861_3.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/MPLS/MPLS_NOAH/lsp_ping/lsp_ping_ccc.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling/iflscaling_ae.pl.params

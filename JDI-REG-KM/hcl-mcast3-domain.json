@@ -1,0 +1,436 @@
+{
+    "team": "JDI-REG-KM",
+    "domain": "hcl-mcast3-domain",
+    "timestamp": "2018-10-19 10:13:59",
+    "total_result": 46,
+    "groups": [
+        {
+            "id": 0,
+            "name": "prefered_params",
+            "num_result": 24,
+            "result": [
+                {
+                    "s_id": 96337,
+                    "p_n": "Tahi2-ipv6-spec.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "Tahi2-ipv6-spec.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/IPv6",
+                    "i_r": false
+                },
+                {
+                    "s_id": 96336,
+                    "p_n": "Tahi2-icmp.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "Tahi2-icmp.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/IPv6",
+                    "i_r": false
+                },
+                {
+                    "s_id": 96335,
+                    "p_n": "tcp_syncache.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "tcp_syncache.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/TCP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 96339,
+                    "p_n": "Tahi2-pmtu.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "Tahi2-pmtu.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/IPv6",
+                    "i_r": false
+                },
+                {
+                    "s_id": 62696,
+                    "p_n": "161_RLI_28845_oc_intf_scale3.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "161_RLI_28845_oc_intf_scale3.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/dcd/OpenConfig",
+                    "i_r": false
+                },
+                {
+                    "s_id": 96341,
+                    "p_n": "tcp_syncache1.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "tcp_syncache1.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/TCP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 96340,
+                    "p_n": "Tahi2-stateless-addr.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "Tahi2-stateless-addr.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/IPv6",
+                    "i_r": false
+                },
+                {
+                    "s_id": 19258,
+                    "p_n": "152_23374_Avatar_enable_commit_event_scripts_from_python_script2.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "152_23374_Avatar_enable_commit_event_scripts_from_python_script2.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/UI",
+                    "i_r": false
+                },
+                {
+                    "s_id": 19260,
+                    "p_n": "PR_1145920_sockappendmsg.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "PR_1145920_sockappendmsg.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/ARP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 62695,
+                    "p_n": "161_RLI_28845_oc_intf_scale2.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "161_RLI_28845_oc_intf_scale2.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/dcd/OpenConfig",
+                    "i_r": false
+                },
+                {
+                    "s_id": 62697,
+                    "p_n": "161_RLI_28845_oc_intf_scale1.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "161_RLI_28845_oc_intf_scale1.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/dcd/OpenConfig",
+                    "i_r": false
+                },
+                {
+                    "s_id": 21299,
+                    "p_n": "traceroute_iwl_conf.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "traceroute_iwl_conf.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Conformance/SNMP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 14272,
+                    "p_n": "NTP_Scaling_Broadcast_1.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "NTP_Scaling_Broadcast_1.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/ntpv4",
+                    "i_r": false
+                },
+                {
+                    "s_id": 19135,
+                    "p_n": "PR_871299_username.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "PR_871299_username.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/UI",
+                    "i_r": false
+                },
+                {
+                    "s_id": 9995,
+                    "p_n": "132_RLI_8142_refresh_scripts_on_both_REs_2.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "132_RLI_8142_refresh_scripts_on_both_REs_2.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/UI",
+                    "i_r": false
+                },
+                {
+                    "s_id": 8781,
+                    "p_n": "64k_Unumbered_ifl.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "64k_Unumbered_ifl.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling_csv_data",
+                    "i_r": false
+                },
+                {
+                    "s_id": 7775,
+                    "p_n": "iflscaling_rt.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "iflscaling_rt.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling",
+                    "i_r": false
+                },
+                {
+                    "s_id": 9336,
+                    "p_n": "PR_591896_all_junos_sw_snmp_wrong_destn_ip_address_in_sd_syslog.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "PR_591896_all_junos_sw_snmp_wrong_destn_ip_address_in_sd_syslog.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Protocols/SNMP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 9165,
+                    "p_n": "64k_Unumbered_gres_ifl.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "64k_Unumbered_gres_ifl.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling_csv_data",
+                    "i_r": false
+                },
+                {
+                    "s_id": 9164,
+                    "p_n": "128k_Unnumbered_gres_ifl.pl.params",
+                    "p_r": false,
+                    "pp_r": false,
+                    "pp_n": "128k_Unnumbered_gres_ifl.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling_csv_data",
+                    "i_r": false
+                },
+                {
+                    "s_id": 7112,
+                    "p_n": "pr281932.pl.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "pr281932.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/PR",
+                    "i_r": false
+                },
+                {
+                    "s_id": 3216,
+                    "p_n": "config_groups.params",
+                    "p_r": true,
+                    "pp_r": true,
+                    "pp_n": "config_groups.hcl-mcast3-domain.params",
+                    "p_l": "/FUNCTIONAL_REG/MANAGEABILITY/MGD_INFRA/Groups",
+                    "i_r": false
+                },
+                {
+                    "s_id": 5388,
+                    "p_n": "fast_re_switchover.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "fast_re_switchover.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/Redundancy",
+                    "i_r": false
+                },
+                {
+                    "s_id": 772,
+                    "p_n": "pr_254637.pl.params",
+                    "p_r": true,
+                    "pp_r": false,
+                    "pp_n": "pr_254637.pl.hcl-mcast3-domain.params",
+                    "p_l": "/Infrastructure/SNMP",
+                    "i_r": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "params",
+            "num_result": 22,
+            "result": [
+                {
+                    "s_id": 67508,
+                    "p_n": "172_RLI_30057_ksyncd_4_issu.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/GRES",
+                    "i_r": false
+                },
+                {
+                    "s_id": 67461,
+                    "p_n": "172_RLI_30057_ksyncd_5.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/GRES",
+                    "i_r": false
+                },
+                {
+                    "s_id": 80937,
+                    "p_n": "161_MX_TPI_38695_IPv6_Logo_Cert_RFC4861_3.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Protocols/IPv6",
+                    "i_r": false
+                },
+                {
+                    "s_id": 67472,
+                    "p_n": "172_RLI_30057_ksyncd_1.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/GRES",
+                    "i_r": false
+                },
+                {
+                    "s_id": 67469,
+                    "p_n": "172_RLI_30057_ksyncd_3_issu.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/GRES",
+                    "i_r": false
+                },
+                {
+                    "s_id": 73297,
+                    "p_n": "iflscaling_ae.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling",
+                    "i_r": false
+                },
+                {
+                    "s_id": 56287,
+                    "p_n": "PR_523897.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/TCPIP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 20536,
+                    "p_n": "131_RLI_15949_64k_Numbered_dcd_ae.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/dcd",
+                    "i_r": false
+                },
+                {
+                    "s_id": 62273,
+                    "p_n": "16_1_CC_SNMP_MISC.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/UI/CODE_COVERAGE",
+                    "i_r": false
+                },
+                {
+                    "s_id": 16321,
+                    "p_n": "dtrace_bsd.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/Occam",
+                    "i_r": false
+                },
+                {
+                    "s_id": 13439,
+                    "p_n": "issu_isis_TC3.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/ISIS",
+                    "i_r": false
+                },
+                {
+                    "s_id": 13771,
+                    "p_n": "issu_bgp_testcase5.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/BGP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 13741,
+                    "p_n": "issu_bgp_testcase1.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/BGP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 9599,
+                    "p_n": "131_RLI_15949_64k_Numbered_dcd.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/dcd",
+                    "i_r": false
+                },
+                {
+                    "s_id": 13436,
+                    "p_n": "issu_isis_TC1.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/ISIS",
+                    "i_r": false
+                },
+                {
+                    "s_id": 13776,
+                    "p_n": "issu_bgp_testcase2.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/BGP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 8780,
+                    "p_n": "64k_Numbered_ifl.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling_csv_data",
+                    "i_r": false
+                },
+                {
+                    "s_id": 8042,
+                    "p_n": "isis_traps_lr.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Protocols/SNMP",
+                    "i_r": false
+                },
+                {
+                    "s_id": 1339,
+                    "p_n": "bfd_sanity.pl.params",
+                    "p_r": true,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/dailyregressions/sanity",
+                    "i_r": false
+                },
+                {
+                    "s_id": 7585,
+                    "p_n": "lsp_ping_ccc.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Protocols/MPLS/MPLS_NOAH/lsp_ping",
+                    "i_r": false
+                },
+                {
+                    "s_id": 8779,
+                    "p_n": "128k_Unnumbered_ifl.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/Infrastructure/Everest/ifl_scaling_csv_data",
+                    "i_r": false
+                },
+                {
+                    "s_id": 4242,
+                    "p_n": "issu_bfd.pl.params",
+                    "p_r": false,
+                    "pp_r": null,
+                    "pp_n": "",
+                    "p_l": "/ISSU/Protocols/BFD",
+                    "i_r": false
+                }
+            ]
+        }
+    ]
+}

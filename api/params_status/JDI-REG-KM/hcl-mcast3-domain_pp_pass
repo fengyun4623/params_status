@@ -1,0 +1,5 @@
+/volume/regressions/JUNOS/HEAD/FUNCTIONAL_REG/MANAGEABILITY/MGD_INFRA/Groups/config_groups.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/PR_871299_username.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/PR/pr281932.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/152_23374_Avatar_enable_commit_event_scripts_from_python_script2.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/ntpv4/NTP_Scaling_Broadcast_1.pl.hcl-mcast3-domain.params

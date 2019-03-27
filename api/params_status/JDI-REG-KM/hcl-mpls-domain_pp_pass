@@ -1,0 +1,11 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/Ifstate/133_RLI_13170_asyncIflStat/133_RLI_13170_asyncEthIflStat.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/142_RLI_19252_i386_ddl_constraint_check_optimization_5.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/AE/133X2_PR_1091425_AE_Counter_Spike.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Interfaces/AE/142_RLI_16792_DecoupleAex_bridge_traffic_2.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/RLI_22591_dcd_component_ha2.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Interfaces/AE/142_RLI_16792_DecoupleAex_bridge_traffic_1.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/151_19293_SNMP_Tomcat_infra.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/RLI_22591_dcd_component_ha1.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Security/PR_668967_OTP.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/172_RLI_28206_YANG_PUBLISH.pl.hcl-mpls-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Lego/162_RLI_27594_LEGO_2.pl.hcl-mpls-domain.params

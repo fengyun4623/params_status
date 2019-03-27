@@ -1,0 +1,9 @@
+/volume/regressions/JUNOS/HEAD/Conformance/SNMP/snmp_iwl_conf.pl.je-svl-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/CODE_COVERAGE/TPI_24047_CC_DDL_lib.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/141_RLI_19974_MX_SNMP_AlarmMIB.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Interfaces/AEAS/Child_link_detached.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Conformance/IPv6/Tahi2-nd.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/System-Wide/Security/Chap/chap_local_database.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Infrastructure/PR_1157407.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/SNMP-Hardening/132_TPI_24047_CC_SNMP_GENERIC_FEATURES.pl.issu1-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/System-Wide/Security/Chap/chap_radius.pl.issu1-irtb-domain.params

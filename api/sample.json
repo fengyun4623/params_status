@@ -1,0 +1,58 @@
+{
+  "newpr": [
+    {
+      "number": "1268917",
+      "category": "sw-cp-l2",
+      "originator": "nidanaz",
+      "manager": "namratha",
+      "arrival_date": "2017-04-10 10:09:03",
+      "reviewer": null,
+      "reviewer_date": null,
+      "reviewer_approval": null,
+      "comment": null,
+      "type": "unrep_pr",
+      "manager_approval": null
+    },
+    {
+      "number": "1284949",
+      "category": "qfx-sw-pfe-l3",
+      "originator": "nidanaz",
+      "manager": "namratha",
+      "arrival_date": "2017-06-13 04:58:11",
+      "reviewer": null,
+      "reviewer_date": null,
+      "reviewer_approval": null,
+      "comment": null,
+      "type": "fix_pr",
+      "manager_approval": null
+    }
+  ],
+  "scopes": [
+    {
+      "number": "1268917",
+      "category": "sw-cp-l2",
+      "originator": "nidanaz",
+      "manager": "namratha",
+      "arrival_date": "2017-04-10 10:09:03",
+      "reviewer": null,
+      "reviewer_date": null,
+      "reviewer_approval": null,
+      "comment": null,
+      "type": "unrep_pr",
+      "manager_approval": null
+    },
+    {
+      "number": "1284949",
+      "category": "qfx-sw-pfe-l3",
+      "originator": "nidanaz",
+      "manager": "namratha",
+      "arrival_date": "2017-06-13 04:58:11",
+      "reviewer": null,
+      "reviewer_date": null,
+      "reviewer_approval": null,
+      "comment": null,
+      "type": "fix_pr",
+      "manager_approval": null
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/Occam/dtrace_bsd.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_3_issu.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_6.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_4_issu.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_2.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_1.pl.params
+/volume/regressions/JUNOS/HEAD/dailyregressions/sanity/bfd_sanity.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/131_RLI_15949_64k_Numbered_dcd.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/TCPIP/PR_523897.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30057_ksyncd_5.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/131_RLI_15949_64k_Numbered_dcd_ae.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/CODE_COVERAGE/16_1_CC_SNMP_MISC.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/BGP/issu_bgp_testcase2.pl.params
+/volume/regressions/JUNOS/HEAD/ISSU/Protocols/BGP/issu_bgp_testcase1.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/isis_traps_lr.pl.params

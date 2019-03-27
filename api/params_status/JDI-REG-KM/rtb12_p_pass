@@ -1,0 +1,10 @@
+/volume/regressions/JUNOS/HEAD/FIPS/fips_re_functional_test_package.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/cfg-private-main.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/fips_re_functional_test.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/fips_re_zeroization.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/xml-insert-config.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/fast_re_switchover.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/fips_RE-S-2000-4096-S_functional_test.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/rescue_with_snmp.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/rli4445_auth_ssh_services_fips.pl.params
+/volume/regressions/JUNOS/HEAD/FIPS/rli1690_SNMPv3.params

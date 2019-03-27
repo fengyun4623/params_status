@@ -1,0 +1,14 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/Redundancy/fast_re_switchover.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling/iflscaling_rt.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling_csv_data/64k_Unumbered_gres_ifl.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling_csv_data/64k_Unumbered_ifl.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/OpenConfig/161_RLI_28845_oc_intf_scale1.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/OpenConfig/161_RLI_28845_oc_intf_scale2.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Everest/ifl_scaling_csv_data/128k_Unnumbered_gres_ifl.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Conformance/TCP/tcp_syncache1.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/SNMP/pr_254637.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/ARP/PR_1145920_sockappendmsg.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Conformance/TCP/tcp_syncache.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/PR_591896_all_junos_sw_snmp_wrong_destn_ip_address_in_sd_syslog.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/dcd/OpenConfig/161_RLI_28845_oc_intf_scale3.pl.hcl-mcast3-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/132_RLI_8142_refresh_scripts_on_both_REs_2.pl.hcl-mcast3-domain.params

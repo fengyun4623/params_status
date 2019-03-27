@@ -1,0 +1,15 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/PR/PR991029.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/ROUTER_REBOOT_TIME/Router_reboot_time.Single_RE.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/Host/rli1315/rli1315.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/RCCA_PR.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/ER/RCCA/PR_880516_899484.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/UI/rli_4641_CLI_output_for_XML_op_commands.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/PR/PR831965.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/CODE_COVERAGE/TPI_24047_CC_DDL_lib.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/Jvision_RLI_28429_Generic_NETCONF_RPC_CLI_proxy.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/netapps/1192119_RCCA.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/OCCAM/SNMP_monitor_multicore_CPU/RLI_24796_snmp_multicore.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/152_rli_28025_jsnapy.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/152_rli_28025_jsnapy_multi.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Scaling/Protocols/OSPF/NSR/Regressions/nsr_ospf_adjs_failover.pl.scale-irtb-domain.params
+/volume/regressions/JUNOS/HEAD/Scaling/Protocols/MCAST/pimJoinLB_v2.pl.scale-irtb-domain.params

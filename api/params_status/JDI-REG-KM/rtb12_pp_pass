@@ -1,0 +1,4 @@
+/volume/regressions/JUNOS/HEAD/FIPS/user_permission.pl.fips-domain.params
+/volume/regressions/JUNOS/HEAD/FIPS/test_login.pl.fips-domain.params
+/volume/regressions/JUNOS/HEAD/FIPS/tripleDES.pl.fips-domain.params
+/volume/regressions/JUNOS/HEAD/FIPS/rli4445_auth_ssh_fips.pl.fips-domain.params

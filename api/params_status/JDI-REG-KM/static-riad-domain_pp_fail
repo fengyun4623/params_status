@@ -1,0 +1,9 @@
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BGP/PR_849859.pl.rbu-reg-wf-rtb-brooklyn.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BFD/Bfd_no_adaptation.pl.rbu-reg-blr-europa1-irtb.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BFD/bfd_sanity.pl.rbu-reg-wf-atari2-rtb.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BGP/pe_pe_cnh_rli15088_nsr.pl.rbu-reg-wf-rtb-brooklyn.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BFD/PR_298479_470761_rsvp.pl.rbu-reg-svl-ngmvpn-sanity.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BFD/Bfd_Adaptation_Trap.pl.rbu-reg-wf-atari2-rtb.params
+/volume/regressions/JUNOS/HEAD/RBU_REG/RPD/Protocols/BGP/JC133_18093_addpath_nsr_mp.pl.rbu-reg-blr-europa1-irtb.params
+/volume/regressions/JUNOS/HEAD/cf/firewall/chained_firewall_filters.pl.static-riad-domain.params
+/volume/regressions/JUNOS/HEAD/Protocols/CCC/ccc_gfr/ccc_cell_fr_gfr.pl.static-riad-domain.params

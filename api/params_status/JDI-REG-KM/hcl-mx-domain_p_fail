@@ -1,0 +1,16 @@
+/volume/regressions/JUNOS/HEAD/Infrastructure/UI/PR_1087499.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/ISSU_Consolidated_13170_19974_20187.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/Multicast/composite_nh/comp_nh_2.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/isis_mib.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/isis_mib_lr.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/SNMP/141_13174_ASYNC_FIREWALL_STATS_5_1.pl.params
+/volume/regressions/toby/test-suites/RLI/RLI-34K/RLI-34910/174_RLI_34910_MX_peer_proxy_1.params
+/volume/regressions/toby/test-suites/RLI/RLI-34K/RLI-34910/174_RLI_34910_MX_peer_proxy_1.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30407_10M_FIB1.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30407_10M_FIB.pl.params
+/volume/regressions/JUNOS/HEAD/Protocols/IPv6/161_MX_TPI_38695_IPv6_Logo_Cert_RFC4443.pl.params
+/volume/regressions/JUNOS/HEAD/Infrastructure/GRES/172_RLI_30407_10M_FIB2.pl.params
+/volume/regressions/JUNOS/HEAD/Scaling/Infrastructure/172_RLI_31537_WarmStandby_1.pl.params
+/volume/regressions/JUNOS/HEAD/Scaling/Infrastructure/172_RLI_31537_WarmStandby_2.pl.params
+/volume/regressions/JUNOS/HEAD/Scaling/Infrastructure/172_RLI_31537_WarmStandby_3.pl.params
+/volume/regressions/JUNOS/HEAD/Scaling/Infrastructure/172_RLI_31537_WarmStandby_4.pl.params
